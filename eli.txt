@@ -1,0 +1,18 @@
+encoding: UTF8
+srclang: English
+tgtlang: Vietnamese
+
+newpair
+srcsent: NULL The great majority of present-day linguists fall into one or more of a number of overlapping types : those who are convinced that tone can not be analysed , those who are personally scared of tone and tone languages generally , those who are convinced that tone is merely an unnecessary marginal feature in those languages where it occurs , those who have no idea how to proceed with tone analysis , those who take a simplistic view of the whole matter .
+tgtsent: Phần_lớn các nhà ngôn_ngữ_học ngày_nay thuộc vào một hoặc nhiều các kiểu chồng_chéo : những người mà chắc chắc rằng thanh_điệu không_thể phân_tích được , những người sợ_hãi thanh_điệu và ngôn_ngữ có thanh_điệu nói_chung , những người tin chắc rằng thanh_điệu chỉ đơn_thuần là một tính_năng ngoài_lề không cần_thiết trong những ngôn_ngữ mà nó xuất_hiện , những người không biết cách tiến_hành phân_tích thanh_điệu , những người có một cái nhìn đơn_giản về toàn_bộ vấn_đề .
+aligned: ((1,2),(1,11),(1,17),(1,24),(1,32),(1,44),(1,68),(1,70),(6,1),(6,5),(6,6),(7,3),(7,4),(9,7),(10,8),(11,9),(12,10),(17,12),(17,13),(19,14),(20,15),(21,16),(23,18),(23,19),(24,20),(25,21),(26,22),(29,23),(30,25),(31,26),(32,27),(35,28),(37,29),(38,30),(39,33),(40,31),(41,34),(42,35),(43,36),(44,37),(46,38),(46,39),(47,40),(48,41),(50,42),(50,43),(51,45),(52,48),(52,49),(53,47),(54,46),(55,50),(56,51),(57,52),(58,53),(59,54),(60,55),(61,56),(62,57),(63,58),(65,59),(66,60),(67,61),(69,62),(71,64),(72,63),(73,65),(74,66),(75,67),(77,69),(78,72),(79,71),(80,73),(82,74),(83,75),(84,76))
+context:
+comment:
+
+newpair
+srcsent: NULL The result has been neglect , fumbling efforts , or superficial treatment .
+tgtsent: Kết_quả là sự thờ_ơ , những nỗ_lực vụng_về , hay những xử_lý hời_hợt .
+aligned: ((1,2),(3,1),(7,5),(8,3),(8,4),(8,8),(9,6),(9,7),(10,9),(11,10),(12,11),(12,12),(12,13),(14,14))
+context:
+comment:
+
